@@ -1,0 +1,38 @@
+[
+    {
+        "text": "A Cheatsheet on REST API Design Best Practices.\nWell-designed APIs behave consistently, fairly predictably, and grow without friction. Some best practices: 1 - Resource-oriented paths and proper use of HTTP verbs. 2 - Use API versioning. 3 - Use standard error codes. 4 - APIs should be idempotent. 5 - Idempotency keys allow deduplication. 6 - APIs should support pagination (offset-based, cursor-based, keyset-based). 7 - API security: authentication, authorization (API Keys, JWTs, OAuth2), HTTPS is mandatory.\nOver to you: Which best practices do you follow while designing APIs?\n--\nSubscribe to our weekly newsletter to get a Free System Design PDF (158 pages): https://bit.ly/bbg-social\nhashtag#systemdesign hashtag#coding hashtag#interviewtips",
+        "engagement": "3857"
+    },
+    {
+        "text": "Top 30 AWS Services That Are Commonly Used.\nGrouped by category: Compute Services (Amazon EC2, AWS Lambda, Amazon ECS, Amazon EKS, AWS Fargate). Storage (Amazon S3, Amazon EBS, Amazon FSx, AWS Backup, Amazon Glacier). Database (Amazon RDS, DynamoDB, Aurora, Redshift, ElastiCache, DocumentDB, Keyspaces). Networking & Security (VPC, CloudFront, Route53, WAF, Shield). AI/ML (SageMaker, Rekognition, Textract, Comprehend). Monitoring & DevOps (CloudWatch, X-Ray, CodePipeline, CloudFormation).\nOver to you: Which other AWS service will you add to the list?\n--\nSubscribe to our weekly newsletter to get a Free System Design PDF (158 pages): https://bit.ly/bbg-social\nhashtag#systemdesign hashtag#coding hashtag#interviewtips",
+        "engagement": "7921"
+    },
+    {
+        "text": "Linux Boot Process Illustrated.\nStep 1 - Power on: BIOS/UEFI runs POST.\nStep 2 - Detect devices: CPU, RAM, storage.\nStep 3 - Choose boot device (disk, network, CD).\nStep 4 - Boot loader (GRUB) runs.\nStep 5 - Kernel starts, systemd manages processes.\nStep 6 - systemd activates default.target.\nStep 7 - Startup scripts run.\nStep 8 - Login window displayed. System ready.\n--\nSubscribe to our weekly newsletter to get a Free System Design PDF (158 pages): https://bit.ly/bbg-social\nhashtag#systemdesign hashtag#coding hashtag#interviewtips",
+        "engagement": "6012"
+    },
+    {
+        "text": "Top 6 Tools to Turn Code into Beautiful Diagrams.\n- Diagrams\n- Go Diagrams\n- Mermaid\n- PlantUML\n- ASCII diagrams\n- Markmap\nOver to you: Did we miss anything? What's your favorite?\n--\nSubscribe to our weekly newsletter to get a Free System Design PDF (158 pages): https://bit.ly/bbg-social\nhashtag#systemdesign hashtag#coding hashtag#interviewtips",
+        "engagement": "4433"
+    },
+    {
+        "text": "The Fundamental Pillars of Object-Oriented Programming.\n1 - Abstraction: Hides implementation, shows essentials.\n2 - Encapsulation: Wraps data/methods, restricts access.\n3 - Inheritance: Child classes reuse parent code.\n4 - Polymorphism: Same method behaves differently based on object.\nOver to you: Do you use OOP?\n--\nSubscribe to our weekly newsletter to get a Free System Design PDF (158 pages): https://bit.ly/bbg-social\nhashtag#systemdesign hashtag#coding hashtag#interviewtips",
+        "engagement": "5864"
+    },
+    {
+        "text": "9 OOP Design Patterns You Must Know.\nCreational: Factory, Singleton, Builder.\nStructural: Adapter, Decorator, Proxy.\nBehavioral: Strategy, Observer, Command.\nOver to you: Which of these patterns have you used?\n--\nSubscribe to our weekly newsletter to get a Free System Design PDF (158 pages): https://bit.ly/bbg-social\nhashtag#systemdesign hashtag#coding hashtag#interviewtips",
+        "engagement": "9275"
+    },
+    {
+        "text": "Top 20 AI Concepts You Should Know.\n1 - Machine Learning\n2 - Deep Learning\n3 - Neural Networks\n4 - NLP\n5 - Computer Vision\n6 - Reinforcement Learning\n7 - Generative Models\n8 - LLM\n9 - Transformers\n10 - Feature Engineering\n11 - Supervised Learning\n12 - Bayesian Learning\n13 - Prompt Engineering\n14 - AI Agents\n15 - Fine-Tuning Models\n16 - Multimodal Models\n17 - Embeddings\n18 - Vector Search\n19 - Model Evaluation\n20 - AI Infrastructure\nOver to you: Which concept will you add?\n--\nSubscribe to our weekly newsletter to get a Free System Design PDF (158 pages): https://bit.ly/bbg-social\nhashtag#systemdesign hashtag#coding hashtag#interviewtips",
+        "engagement": "7041"
+    },
+    {
+        "text": "Essential Git Cheatsheet!\nBasic: git init, git clone, git status, git add, git commit -m, git push, git pull, git diff, git diff --staged.\nBranching: git branch, git checkout, git merge, git branch -d/-D.\nSync: git fetch, git rebase, git pull --rebase, git remote add.\nAdvanced: git stash, git cherry-pick, git log --oneline, git reflog, git log --graph.\nUndo: git reset, git revert.\nCollab: git fork, git push, git pull.\nOver to you: did we miss anything?\n--\nSubscribe to our weekly newsletter to get a Free System Design PDF (158 pages): https://bit.ly/bbg-social\nhashtag#systemdesign hashtag#coding hashtag#interviewtips",
+        "engagement": "6678"
+    },
+    {
+        "text": "Top 20 System Design Concepts You Should Know.\n1 - Load Balancing\n2 - Caching\n3 - Database Sharding\n4 - Replication\n5 - CAP Theorem\n6 - Consistent Hashing\n7 - Message Queues\n8 - Rate Limiting\n9 - API Gateway\n10 - Microservices\n... (truncated for brevity)\nOver to you: Which concept would you add?\n--\nSubscribe to our weekly newsletter to get a Free System Design PDF (158 pages): https://bit.ly/bbg-social\nhashtag#systemdesign hashtag#coding hashtag#interviewtips",
+        "engagement": "8123"
+    }
+]

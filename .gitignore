@@ -1,0 +1,5 @@
+/.env
+/.qodo
+/.vscode
+/__pycache__
+/venv
